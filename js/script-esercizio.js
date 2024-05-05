@@ -7,4 +7,4 @@ const surname_user = prompt("Inserisci il tuo cognome");
 const color_user = prompt("Inserisci il tuo colore preferito");
 
 //STAMPO INPUT UTENTE
-console.log(name_user + surname_user + color_user);
+console.log(name_user + surname_user + color_user + "21");
